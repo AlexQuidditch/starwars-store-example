@@ -5,6 +5,7 @@
     "strict": true,
     "jsx": "preserve",
     "importHelpers": true,
+    "preserveConstEnums": true,
     "moduleResolution": "node",
     "experimentalDecorators": true,
     "esModuleInterop": true,
