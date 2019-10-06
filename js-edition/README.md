@@ -1,14 +1,4 @@
-# starwars-store
-
-After installing dependencies, open node_modules/vuex/types/vue.d.ts and comment next lines:
-```typescript
-declare module "vue/types/vue" {
-  interface Vue {
-    $store: Store<any>;
-  }
-}
-```
-It's will give you correct `$store` typings inside Vue Class Components.
+# starwars-store (JS Edition)
 
 ## Project setup
 ```
