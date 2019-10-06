@@ -1,4 +1,4 @@
-# starwars-store
+# starwars-store (TS Edition)
 
 After installing dependencies, open node_modules/vuex/types/vue.d.ts and comment next lines:
 ```typescript
